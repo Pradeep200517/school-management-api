@@ -12,7 +12,7 @@ app.use(express.json());
 const dbConfig = {
     host: 'localhost',
     user: 'root',
-    password: 'Pradeep@2005', // Change this to your MySQL password
+    password: '', // Change this to your MySQL password
     database: 'school_management'
 };
 
